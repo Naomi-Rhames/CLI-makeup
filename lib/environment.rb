@@ -5,4 +5,4 @@ require_relative "../lib/CLI/product"
 require_relative "../lib/CLI/cash_register"
 
 require 'pry'
-require "httparty"
+require "httparty" 
