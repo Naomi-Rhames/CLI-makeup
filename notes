@@ -1,0 +1,22 @@
+Things I need for this project
+
+ 1. Must be two levels deep
+ 2. Must use a API or scrapping 
+ 3. Get imformation from the API and save it into Objects
+ 
+ Steps I need to achieve
+
+ 1. Pick an API(Makeup API)
+ 2. Make sure we obtain all the imformation we need from said API to build our APP or website or whatever...
+ 3. Start thinking about the flow of the project
+ 
+
+
+
+ #Flow of project
+1. I want to welcome the user to Maybelline Makeup X
+2. Ask the user what type of Makeup product they would like to use or be intrested X
+3. I will get the imformation from the API then save it, then display all the products X
+4. I will then allow the user to choose which  Makeup product best assiociates with there needs and can then tell them more imformation about that product. X
+5. The user purchase one of the items, gives total, after there purchase
+6. EXIT
